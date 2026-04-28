@@ -26,10 +26,10 @@ Restful Booker is a public REST API built for testing purposes. This project cov
 
 ## Project Structure
 
-postman-restfulbooker/
-├── restfulbooker-collection.json
-├── restfulbooker-environment.json
-└── README.md
+    postman-restfulbooker/
+    ├── restfulbooker-collection.json
+    ├── restfulbooker-environment.json
+    └── README.md
 
 ## How to Run
 
